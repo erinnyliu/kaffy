@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaffy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kaffy/static/js/main.12fe9163.chunk.js",
+    "main.js.map": "/kaffy/static/js/main.12fe9163.chunk.js.map",
+    "runtime-main.js": "/kaffy/static/js/runtime-main.c6956a3c.js",
+    "runtime-main.js.map": "/kaffy/static/js/runtime-main.c6956a3c.js.map",
+    "static/js/2.8a420311.chunk.js": "/kaffy/static/js/2.8a420311.chunk.js",
+    "static/js/2.8a420311.chunk.js.map": "/kaffy/static/js/2.8a420311.chunk.js.map",
+    "index.html": "/kaffy/index.html",
+    "precache-manifest.045c7998bd45856b47422f6c1b6a13cb.js": "/kaffy/precache-manifest.045c7998bd45856b47422f6c1b6a13cb.js",
+    "service-worker.js": "/kaffy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kaffy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8a420311.chunk.js.LICENSE.txt": "/kaffy/static/js/2.8a420311.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kaffy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6956a3c.js",
+    "static/js/2.8a420311.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.12fe9163.chunk.js"
+  ]
+}
